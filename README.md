@@ -1,1 +1,1 @@
-# Minor_Project_Semester5
+# Minor_project_sem5
