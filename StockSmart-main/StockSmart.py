@@ -451,7 +451,7 @@ add_meta_tag()
 # Sidebar Section Starts Here
 today = date.today()  
 st.write('''# StockSmart ''')  
-st.sidebar.image("Images/StockStreamLogo1.png", width=250,
+st.sidebar.image("Images/logo.png", width=250,
                  use_column_width=False)  
 st.sidebar.write('''# StockSmart ''')
 
